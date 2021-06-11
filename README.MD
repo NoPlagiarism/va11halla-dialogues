@@ -11,9 +11,7 @@ Especially thanks to  [Charlotte](https://github.com/dressupgeekout) and her Rub
     [
         [
             {
-                "line": 0
-            },
-            {
+                "line": 0,
                 "filename": Filename (script),
                 "lines": Num of script lines,
                 "type": "META"
@@ -21,14 +19,9 @@ Especially thanks to  [Charlotte](https://github.com/dressupgeekout) and her Rub
         ],
         [
             {
-                "line": 2
-            },
-            {
+                "line": Num of line in script,
                 "type": "dialogue",
-                "text": "{character}:"
-            },
-            {
-                "type": "dialogue",
+                "character": Character,
                 "text": Text
             }
         ],
@@ -45,7 +38,7 @@ and e.t.c
                 "lines": Num of script lines,
                 "type": "META"
             },
-            "line": 2,
+            "line": Num of line in script,
             "text": Text
         },
 and e.t.c
