@@ -29,7 +29,7 @@ Especially thanks to  [Charlotte](https://github.com/dressupgeekout) and her Rub
 and e.t.c
 ```
 
-### dialogue_groupped.json
+### dialogue_grouped.json
 ```json
 {
     Character: [
