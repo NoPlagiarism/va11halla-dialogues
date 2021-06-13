@@ -3,6 +3,7 @@ Especially thanks to  [Charlotte](https://github.com/dressupgeekout) and her Rub
 
 ## Languages available:
 - [English (en)](https://github.com/NoPlagiarism/va11halla-dialogues/tree/master/en)
+- [Russian (ru)](https://github.com/NoPlagiarism/va11halla-dialogues/tree/master/ru) [using translation by koshk.ru](https://koshk.ru/uploads/va11_rus_fin-10_190330.zip)
 
 ## Structure
 ### dialogue_scripts.json
