@@ -45,3 +45,4 @@ and e.t.c
 and e.t.c
 
 ```
+_All rights belongs to [SUKEBAN GAMES](https://sukeban.moe/)_
