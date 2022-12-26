@@ -13,17 +13,17 @@ Especially thanks to  [Charlotte](https://github.com/dressupgeekout) and her Rub
         [
             {
                 "line": 0,
-                "filename": Filename (script),
-                "lines": Num of script lines,
+                "filename": "{Filename (script)}",
+                "lines": "{Num of script lines (int)}",
                 "type": "META"
             }
         ],
         [
             {
-                "line": Num of line in script,
+                "line": "{Num of line in script (int)}",
                 "type": "dialogue",
-                "character": Character,
-                "text": Text
+                "character": "{Character}",
+                "text": "{Text}"
             }
         ],
 and e.t.c
@@ -32,15 +32,15 @@ and e.t.c
 ### dialogue_grouped.json
 ```json
 {
-    Character: [
+    "{Character}": [
         {
             "script": {
-                "filename": Filename (script),
-                "lines": Num of script lines,
+                "filename": "{Filename (script)}",
+                "lines": "{Num of script lines (int)}",
                 "type": "META"
             },
-            "line": Num of line in script,
-            "text": Text
+            "line": "{Num of line in script (int)}",
+            "text": "{Text}"
         },
 and e.t.c
 
@@ -49,7 +49,7 @@ and e.t.c
 ### names.json
 ```json
 {
-    localized character's name: english original name
+    "{localized character's name}": "{english original name}"
 }
 ```
 _All rights belongs to [SUKEBAN GAMES](https://sukeban.moe/)_
