@@ -45,4 +45,11 @@ and e.t.c
 and e.t.c
 
 ```
+
+### names.json
+```json
+{
+    localized character's name: english original name
+}
+```
 _All rights belongs to [SUKEBAN GAMES](https://sukeban.moe/)_
