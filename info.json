@@ -1,0 +1,12 @@
+{
+    "en": {
+        "dialogue_scripts.json": "https://raw.githubusercontent.com/NoPlagiarism/va11halla-dialogues/master/en/dialogue_scripts.json",
+        "dialogue_grouped.json": "https://raw.githubusercontent.com/NoPlagiarism/va11halla-dialogues/master/en/dialogue_grouped.json",
+        "names.json": "https://raw.githubusercontent.com/NoPlagiarism/va11halla-dialogues/master/en/names.json"
+    },
+    "ru": {
+        "dialogue_scripts.json": "https://raw.githubusercontent.com/NoPlagiarism/va11halla-dialogues/master/ru/dialogue_scripts.json",
+        "dialogue_grouped.json": "https://raw.githubusercontent.com/NoPlagiarism/va11halla-dialogues/master/ru/dialogue_grouped.json",
+        "names.json": "https://raw.githubusercontent.com/NoPlagiarism/va11halla-dialogues/master/ru/names.json"
+    }
+}
